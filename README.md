@@ -8,9 +8,18 @@ Ich habe heute am Modul 431 weitergearbeitet. Ich habe die Aufgabe 1703 Bearbeit
 [x] Am Modul 431 weiter arbeiten.
 [ ]Am Modul 319 weiter arbeiten.
 
-Arbeitspakete für 15.9.2023
+##Arbeitspakete für 15.9.2023
+
+[x] An den Modulen weiter arbeiten
+[x] Eventuell ein C# Projekt beginnen
+
+Heute habe ich einige Moodle-Tests abgeschlossen und zwar die vom Modul 431. Ich habe den Test zu 1703, 1717 und 1723 abgeschlossen. Ausserdem habe ich mit einem C# Projekt gestartet und zwar mit einem Random-Numberguesser. Ich bin dieses Mal noch nicht damit fertig geworden aber ich werde das Nächste Mal daran weiter arbeiten. (53 Wörter)
+
+##Arbeitspaket für den 22.09.23
 
 [ ] An den Modulen weiter arbeiten
-[ ] Eventuell ein C# Projekt beginnen
+[ ] An dem Random Numberguesser weiter arbeiten.
+
+
 
 
